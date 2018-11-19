@@ -36,8 +36,11 @@ node_modules/
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 # output file
+
 dist
-.idea
+.idea/
 
 
 
+/dist/
+/package-lock.json
