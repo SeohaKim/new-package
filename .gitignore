@@ -52,3 +52,4 @@ dist
 .idea/workspace.xml
 dist/index.js
 dist/index.map
+.idea/workspace.xml
