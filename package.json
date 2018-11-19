@@ -1,0 +1,21 @@
+{
+  "name": "new-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "parcel src/index.js",
+    "build": "parcel build src/index.js",
+    "run": "npm run build; node dist/index.js"
+  },
+  "keywords": [],
+  "author": "Seoha Kim <keynotforlock@gmail.com> (https://www.seoha.kim/)",
+  "license": "LicenseRef-LICENSE",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-flow": "^7.0.0",
+    "babel": "^6.23.0",
+    "parcel-bundler": "^1.10.3"
+  }
+}
