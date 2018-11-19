@@ -42,14 +42,6 @@ dist
 
 
 
-/dist/
 /package-lock.json
-.idea/misc.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/new-package.iml
-.idea/vcs.xml
 .idea/workspace.xml
-dist/index.js
-dist/index.map
 .idea/workspace.xml
